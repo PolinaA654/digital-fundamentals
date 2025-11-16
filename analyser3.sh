@@ -17,4 +17,4 @@ do
     done
 done
 echo $teen
-ecgo $noteen
+echo $noteen
